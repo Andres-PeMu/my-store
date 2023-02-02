@@ -215,4 +215,6 @@ $RECICLAJE.BIN/
 # Atajos de Windows
 *.lnk
 
+postgres_data
+
 # Fin de https://www.toptal.com/developers/gitignore/api/macos,linux,windows,node
